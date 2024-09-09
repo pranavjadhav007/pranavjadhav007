@@ -1,6 +1,4 @@
-![Header](./your-header-image-name.png)
-
-Hello Friends, Myself Pranav Jadhav. Currently am doing B.Tech in Computer Science. I am Data Scientist, Deep Learning Engineer,Cloud Developer, Full Stack Web Developer, and Ethical Hacker, and just love to combine different technology in a single project.  
+Hello Friends, Myself Pranav Jadhav. I just love technology and the realm of Artificial Intelligence. Can code for Data Scientist, Machine Learning, Deep Learning, LLM, Generative AI, Data Analysis, Web Development, Deployments, Ethical Hacking and Full Stack Development.    
 
 <!--
 **pranavjadhav007/pranavjadhav007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
